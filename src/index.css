@@ -1,0 +1,32 @@
+.header{
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding: 20px 0px;
+}
+.slidebar{
+  background-color: aqua;
+  color: black;
+  width: 400px;
+  padding: 100px 0px;
+}
+.contents{
+  display: flex;
+
+}
+.content{
+  background-color:blue;
+  color: white;
+  width: 700px;
+  padding: 100px 0px;
+  /* height: 100px; */
+}
+.footer{
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding: 20px 0px;
+}
+.navbar-brand{
+  color: white;
+}

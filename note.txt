@@ -1,0 +1,33 @@
+
+folder nodemoude là folder nặng nhất nha 
+cài lại  folder nodemudle dùng npm install 
+                   BUỔI 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+câu lệnh để chạy sever local host:3000 là 
+b1: npm install để cài folder node_modules
+b2: chạy sever npm start 
+
+=> component là 1 cái thẻ chứa cái tag html != html bth ở cái className
+gọi theo chuẩn là JSX
+cài thư viện boostrap npm i boostrap jquery popper.js --s 
+import "bootstrap/dist/css/bootstrap.min.css";
+import "jquery/dist/jquery.min.js";
+import "popper.js/dist/umd/popper.min.js";
+import "bootstrap/dist/js/bootstrap.min.js";
+stateful component: class : demo baitap1; component theo dạng class : rcc
+stateless comonent: function :demo baitap2; comonent theo dạng function rfc
+
+data-binding : {} rendering elements;
+handleEvent : onClick
+state 
+list keys
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   BUỔI 2
+bài tập car 
+props : dùng truyền từ component cha sang component con statefull stateless 
+lifting sate up 
+lifting state up cart
+~~~~~~~~~~~~~~~~~~~buổi 6 ~~~~~~~~~~~~~~~~
+redux usermanagement
+life cycle 
+form validation
